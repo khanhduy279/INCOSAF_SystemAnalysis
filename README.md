@@ -30,4 +30,4 @@ Role: Business Analyst, UI/UX, DB Designer
 
 ---
 
-📬 Contact: [nhungnguyendac652004@gmail.com]
+📬 Contact: nhungnguyendac652004@gmail.com
