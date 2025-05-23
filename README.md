@@ -26,12 +26,12 @@ All documents are located in the `docs/` and `scripts/` folders.
 ---
 
 ## 👤 Team
-Analysis & design by student team - 2023 
+Analysis & design by student team - 2024 
 Role: Business Analyst, UI/UX, DB Designer
 
 ---
 
-📬 Contact: nhungnguyendac652004@gmail.com
+📬 Contact: caoduy270904@gmail.com
 =======
 # INCOSAF_SystemAnalysis
 >>>>>>> 025535c2ccfdbf74290b3afeff94ccd4c621ea32
