@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏗️ Inspection Project Management System - INCOSAF
 
 ## 📌 Overview
@@ -31,3 +32,6 @@ Role: Business Analyst, UI/UX, DB Designer
 ---
 
 📬 Contact: nhungnguyendac652004@gmail.com
+=======
+# INCOSAF_SystemAnalysis
+>>>>>>> 025535c2ccfdbf74290b3afeff94ccd4c621ea32
